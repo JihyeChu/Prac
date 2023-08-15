@@ -1,5 +1,5 @@
 ---
-name: document template
+name: Document template
 about: 문서 위주 템플릿
 title: ''
 labels: documentation

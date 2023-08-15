@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: '공통된 issue 작성법 '
-title: docs/issue.md
+name: document template
+about: 문서 위주 템플릿
+title: ''
 labels: documentation
-assignees: JihyeChu
+assignees: ''
 
 ---
 
